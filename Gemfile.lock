@@ -20,7 +20,10 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+
   rspec (~> 3.12)
+=======
+  rspec
 
 BUNDLED WITH
    2.4.12
